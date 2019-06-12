@@ -27,4 +27,10 @@ public class Firsttestng2 {
 	{
 		System.out.println("Purchase cctv");
 	}
+	
+	@Test
+	public void Electroniccooooooooooctv()
+	{
+		System.out.println("Purchase for git develop branch");
+	}
 }
