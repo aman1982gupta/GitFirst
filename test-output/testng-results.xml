@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="8" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+    <groups>
+    </groups>
+    <test name="FirstTest" duration-ms="35" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+      <class name="PackTestng.Firsttestng">
+        <test-method status="PASS" signature="beforeeeverymethod()[pri:0, instance:PackTestng.Firsttestng@51efea79]" name="beforeeeverymethod" is-config="true" duration-ms="4" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeeeverymethod -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:PackTestng.Firsttestng@51efea79]" name="demo" duration-ms="5" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="grocerybread()[pri:0, instance:PackTestng.Firsttestng@51efea79]" name="grocerybread" is-config="true" duration-ms="0" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grocerybread -->
+      </class> <!-- PackTestng.Firsttestng -->
+      <class name="PackTestng.Firsttestng2">
+        <test-method status="PASS" signature="Electroniccctv()[pri:0, instance:PackTestng.Firsttestng2@5034c75a]" name="Electroniccctv" duration-ms="1" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Electroniccctv -->
+        <test-method status="PASS" signature="Electronicspeaker()[pri:0, instance:PackTestng.Firsttestng2@5034c75a]" name="Electronicspeaker" duration-ms="1" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Electronicspeaker -->
+        <test-method status="PASS" signature="Electronictv()[pri:0, instance:PackTestng.Firsttestng2@5034c75a]" name="Electronictv" duration-ms="1" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Electronictv -->
+      </class> <!-- PackTestng.Firsttestng2 -->
+    </test> <!-- FirstTest -->
+    <test name="SecondTest" duration-ms="8" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+      <class name="PackTestng.Firsttestng3">
+        <test-method status="PASS" signature="kitchenbowl()[pri:0, instance:PackTestng.Firsttestng3@26be92ad]" name="kitchenbowl" duration-ms="1" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kitchenbowl -->
+        <test-method status="PASS" signature="aftereverymethod()[pri:0, instance:PackTestng.Firsttestng3@26be92ad]" name="aftereverymethod" is-config="true" duration-ms="0" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftereverymethod -->
+        <test-method status="PASS" signature="kitchenplate()[pri:0, instance:PackTestng.Firsttestng3@26be92ad]" name="kitchenplate" duration-ms="1" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kitchenplate -->
+        <test-method status="PASS" signature="aftereverymethod()[pri:0, instance:PackTestng.Firsttestng3@26be92ad]" name="aftereverymethod" is-config="true" duration-ms="0" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftereverymethod -->
+        <test-method status="PASS" signature="kitchenspoon()[pri:0, instance:PackTestng.Firsttestng3@26be92ad]" name="kitchenspoon" duration-ms="1" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kitchenspoon -->
+        <test-method status="PASS" signature="aftereverymethod()[pri:0, instance:PackTestng.Firsttestng3@26be92ad]" name="aftereverymethod" is-config="true" duration-ms="0" started-at="2019-05-18T00:48:19Z" finished-at="2019-05-18T00:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftereverymethod -->
+      </class> <!-- PackTestng.Firsttestng3 -->
+    </test> <!-- SecondTest -->
+  </suite> <!-- Suite -->
+</testng-results>
