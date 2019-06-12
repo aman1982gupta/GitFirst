@@ -18,6 +18,8 @@ public class Firsttestng2 {
 	public void Electronicspeaker()
 	{
 		System.out.println("Purchase Speaker");
+		System.out.println("for git develop brach");
+		
 	}
 	
 	@Test

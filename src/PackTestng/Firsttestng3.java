@@ -15,6 +15,7 @@ public class Firsttestng3 {
 	public void kitchenplate()
 	{
 		System.out.println("Purchase plate");
+		System.out.println("for git develop brach2");
 	}
 	@AfterMethod
 	public void aftereverymethod()
