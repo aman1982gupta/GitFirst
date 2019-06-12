@@ -10,6 +10,8 @@ public class Firsttestng2 {
 	public void Electronictv()
 	{
 		System.out.println("Purchase TV");
+		System.out.println("for git project9");
+		System.out.println("for git project0");
 	}
 	
 	@Test

@@ -20,6 +20,10 @@ public class Firsttestng {
 	public void grocerymilk()
 	{
 		System.out.println("Purchase Milk");
+		System.out.println("for git project3");
+		System.out.println("for git project4");
+		System.out.println("for git project5");
+		System.out.println("for git project6");
 	}
 	
 	@BeforeMethod
