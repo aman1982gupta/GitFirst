@@ -12,6 +12,8 @@ public class Firsttestng {
 	public void demo()
 	{
 		System.out.println("Hello");
+		System.out.println("for git project1");
+		System.out.println("for git project2");
 	}
 	
 	@Test
